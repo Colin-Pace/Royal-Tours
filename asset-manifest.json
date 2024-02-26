@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Royal-Tours/static/css/main.6461cb07.css",
+    "main.css": "/Royal-Tours/static/css/main.74bcdabd.css",
     "main.js": "/Royal-Tours/static/js/main.af0cb34e.js",
     "static/js/453.4d21dc4f.chunk.js": "/Royal-Tours/static/js/453.4d21dc4f.chunk.js",
     "static/media/camel.jpg": "/Royal-Tours/static/media/camel.cdc6b0b3df2e901a59cb.jpg",
@@ -28,12 +28,12 @@
     "static/media/om.jpg": "/Royal-Tours/static/media/om.d055926398f86bedd999.jpg",
     "static/media/AbdulRahimRathore.jpeg": "/Royal-Tours/static/media/AbdulRahimRathore.e01b7331f8a38a14d497.jpeg",
     "index.html": "/Royal-Tours/index.html",
-    "main.6461cb07.css.map": "/Royal-Tours/static/css/main.6461cb07.css.map",
+    "main.74bcdabd.css.map": "/Royal-Tours/static/css/main.74bcdabd.css.map",
     "main.af0cb34e.js.map": "/Royal-Tours/static/js/main.af0cb34e.js.map",
     "453.4d21dc4f.chunk.js.map": "/Royal-Tours/static/js/453.4d21dc4f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6461cb07.css",
+    "static/css/main.74bcdabd.css",
     "static/js/main.af0cb34e.js"
   ]
 }
