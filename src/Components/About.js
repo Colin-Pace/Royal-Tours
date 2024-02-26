@@ -29,7 +29,7 @@ function About() {
 
         <p>Colin Pace lives in the city of Austin, in the state of Texas in the United States. Colin has studied multiple languages, and he focuses on Hindi, a language he studied while a graduate student at The University of Texas at Austin. He also lived for four years in India, developing his Hindi abilities. Colin is a web developer and made the website for the company. Colin keeps a vlog on YouTube and a blog on Medium for his interests in Hindi and science.</p>
 
-        <p>Abdul and Colin met one another while Colin was a student of Hindi at The American Institute of Indian Studies in Jaipur, Rajasthan. Quickly becoming friends, they helped one another in a language exchange. When the opportunity arose for Colin to join Abdul in the tourism company, Colin jumped at the chance, applying his web development and content creation skills to the new role. Together, Abdul and Colin hope to provide an incredible and authentic tourism experience.</p>
+        <p>Abdul and Colin met one another while Colin was a student of Hindi at The American Institute of Indian Studies in Jaipur, Rajasthan. Quickly becoming friends, they helped one another in a language exchange. When the opportunity arose for Colin to join Abdul in the tourism company, Colin jumped at the chance, applying his web development and content creation skills to the new role. Together, Abdul and Colin hope to provide an incredible and authentic tourism experience in India.</p>
       </div>
     </div>
   );

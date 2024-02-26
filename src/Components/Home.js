@@ -45,7 +45,7 @@ function Home() {
         </div> 
 
         <div id = "homeDescription">
-          <p>Welcome to the website of Royal Tours! Scroll through the above images to see more pictures of Incredible India!</p>
+          <p>Welcome to the website of Royal Tours! Scroll through the above images to see more pictures of incredible India!</p>
             
           <p>Here you will find information about the business, the tour packages we offer, and information about India. Royal Tours is a business owned by Abdul Rahim Rathore. Abdul started the business a few years ago, offering tours of India to Indian and foreign tourists alike. Abdul speaks English, as well as a few Indian languages, and he is experienced in showing a variety of people around the amazing country of India.</p>
 

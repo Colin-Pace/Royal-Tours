@@ -13,9 +13,9 @@ function India() {
         />
 
         <div id = "IndiaDescription">
-          <p>India is an incredible country. The country has a rich and vibrant history of religion in Hinduism, Buddhism, and Islam. It has diverse ethnic groups and languages. It has one of the largest economies in the world. In all of these aspects, India offers a vast wealth of opportunities for the tourist to explore. Read on to learn more about this incredible country.</p>
+          <p>India is an incredible country. The country has a rich and vibrant history of religions such as Hinduism, Buddhism, and Islam. It has diverse ethnic groups and languages. It has one of the largest economies in the world. In all of these aspects, India offers a vast wealth of opportunities for a tourist to explore. Read on to learn more about this incredible country.</p>
 
-          <p>India has an ancient history. Although there was a prehistoric settlement in the Indus Valley Civilization, the country of India today often traces its historical origin to the early Vedic settlers in the subcontinent. These people brought with them a religion known as the Vedas, which forms the foundation of the Hindu religion today. In books about religious rituals, chants to the gods, and topics about existence like dharma or religious duty.</p>
+          <p>India has an ancient history. Although there was a prehistoric settlement in the Indus Valley Civilization, the country of India today often traces its historical origin to the early Vedic settlers in the subcontinent. These people brought with them collections of religious hymns known as the Vedas, which forms the foundation of the Hindu religion today. The books consider religious rituals, chants to the gods, and topics about existence like dharma or religious duty.</p>
 
           <img 
             className="IndiaImage"
@@ -28,7 +28,7 @@ function India() {
 
           <p>The communities of the early settlers eventually, over the next few hundred years, formed great empires, in the Maurya Empire and the Gupta Empire. Ashoka of the Mauryan Empire, after conquering most of the subcontinent, renounced his warrior lifestyle and converted the entire kingdom to Buddhism, leaving inscriptions in stone throughout the realm that remain today at places like Sanchi.</p>
 
-          <p>During these early kingdoms, great epics like the Mahabharata and the Ramayana were compiled by bards and storytellers for the kings. The epics focus on princes as they negotiate the dynamics of their kingdoms, utilizing religious precepts in their lifestyles. In one section of the Mahabharata called the Bhagavad Gita, the character of Krishna famously reveals his true identity to Arjuna and instructs him on the proper behavior for him in battle.</p>
+          <p>During these early kingdoms, great epics like the Mahabharata and the Ramayana were compiled by bards and storytellers for kings. The epics focus on princes as they negotiate the dynamics of their kingdoms, utilizing religious precepts in their lifestyles. In one section of the Mahabharata called the Bhagavad Gita, the character of Krishna famously reveals his true identity to Arjuna and instructs him on the proper behavior for him in battle.</p>
 
           <img 
             className="IndiaImage"
