@@ -22,7 +22,7 @@
 
 @media only screen and (max-width: 1100px) {
   .India {
-    margin-left: 2%;
+    margin-left: 2%; 
     margin-right: 2%;
   }
 
@@ -33,7 +33,7 @@
     margin-right: 3%;
   }
 
-  .IndiaImage {
-    height: 300px;
+  #IndiaFlag, .IndiaImage {
+    height: 200px;
   }
 }

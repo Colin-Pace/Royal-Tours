@@ -13,7 +13,7 @@ function App() {
 
   const handleAboutClick = function() {
     setCurrentSection("about")
-  }
+  }  
 
   const handleIndiaClick = function() {
     setCurrentSection("India")
