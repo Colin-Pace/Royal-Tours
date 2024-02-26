@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Royal-Tours/static/css/main.67c1c0ae.css",
+    "main.js": "/Royal-Tours/static/js/main.af0cb34e.js",
+    "static/js/453.4d21dc4f.chunk.js": "/Royal-Tours/static/js/453.4d21dc4f.chunk.js",
+    "static/media/camel.jpg": "/Royal-Tours/static/media/camel.cdc6b0b3df2e901a59cb.jpg",
+    "static/media/ColinPicture.png": "/Royal-Tours/static/media/ColinPicture.3ac5ff9a076ac19f55d2.png",
+    "static/media/tajMahal.jpg": "/Royal-Tours/static/media/tajMahal.40efed26d98ada766d73.jpg",
+    "static/media/rama.jpg": "/Royal-Tours/static/media/rama.e3a302b6973e6ec312ff.jpg",
+    "static/media/street.jpg": "/Royal-Tours/static/media/street.fa46447c4de50e3b7634.jpg",
+    "static/media/rickshaw.jpg": "/Royal-Tours/static/media/rickshaw.e4a48490b97e289e8e70.jpg",
+    "static/media/jaipur.jpg": "/Royal-Tours/static/media/jaipur.a3f3a11df430770c80a6.jpg",
+    "static/media/elephant.jpg": "/Royal-Tours/static/media/elephant.9f5de8c2afad7c56ffad.jpg",
+    "static/media/ornament.jpg": "/Royal-Tours/static/media/ornament.38b43287239cbb75bfe9.jpg",
+    "static/media/flag.jpg": "/Royal-Tours/static/media/flag.5a6c14dbaf9ff11ec028.jpg",
+    "static/media/peacock.jpg": "/Royal-Tours/static/media/peacock.c357db6532fc2b808275.jpg",
+    "static/media/courtPillars.jpg": "/Royal-Tours/static/media/courtPillars.4597f02fd167ce939a50.jpg",
+    "static/media/holi.jpg": "/Royal-Tours/static/media/holi.9b6086347c629cedb220.jpg",
+    "static/media/sadhus.jpg": "/Royal-Tours/static/media/sadhus.c497a046d3f65e7dafd8.jpg",
+    "static/media/dance.jpg": "/Royal-Tours/static/media/dance.1884883a36bcacbaa2f7.jpg",
+    "static/media/waterCarrier.jpg": "/Royal-Tours/static/media/waterCarrier.af8879fde25d185986d9.jpg",
+    "static/media/ghat.jpg": "/Royal-Tours/static/media/ghat.65d1a554db563e762d31.jpg",
+    "static/media/gandhi.jpg": "/Royal-Tours/static/media/gandhi.6b096541a29f50c85cff.jpg",
+    "static/media/goldenTemple.jpg": "/Royal-Tours/static/media/goldenTemple.c7f5fd4268f32b500211.jpg",
+    "static/media/train.jpg": "/Royal-Tours/static/media/train.40e9eb922c809bf80662.jpg",
+    "static/media/elephantStatue.jpg": "/Royal-Tours/static/media/elephantStatue.e728d32f460b25e225d4.jpg",
+    "static/media/parliament.jpg": "/Royal-Tours/static/media/parliament.935c88d1fd4ebaa14285.jpg",
+    "static/media/om.jpg": "/Royal-Tours/static/media/om.d055926398f86bedd999.jpg",
+    "static/media/AbdulRahimRathore.jpeg": "/Royal-Tours/static/media/AbdulRahimRathore.e01b7331f8a38a14d497.jpeg",
+    "index.html": "/Royal-Tours/index.html",
+    "main.67c1c0ae.css.map": "/Royal-Tours/static/css/main.67c1c0ae.css.map",
+    "main.af0cb34e.js.map": "/Royal-Tours/static/js/main.af0cb34e.js.map",
+    "453.4d21dc4f.chunk.js.map": "/Royal-Tours/static/js/453.4d21dc4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67c1c0ae.css",
+    "static/js/main.af0cb34e.js"
+  ]
+}
