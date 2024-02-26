@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  max-width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+}
+
+/* Header */
+
+
+header {
+  display: flex;
+  flex-direction: row;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 15px;
+  margin-bottom: 50px;
+}
+
+h1 {
+  color: #FF671F;
+  font-size: 42px;
+}
+
+#subheaders {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  color: #046A38;
+}
+
+#selectedHomeHeader, #selectedAboutHeader, #selectedIndiaHeader {
+  text-decoration: underline;
+}
+
+#homeHeader, #selectedHomeHeader {
+  margin-left: 100px;
+}
+
+#aboutHeader, #selectedAboutHeader {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#IndiaHeader, #selectedIndiaHeader {
+  margin-right: 20px;
+}
+
+#YouTubeLink {
+  color: #046A38;
+  text-decoration: none;
+}
+
+#YouTubeLink:visited {
+  color: #046A38;
+}
+
+/* Home */
+
+/* About */
+
+/* India */
+
+/* Footer */
+footer {
+  margin-left: 25%;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer h1 {
+  color: black;
+}
+
+footer h2 {
+  margin-top: 20px;
+}

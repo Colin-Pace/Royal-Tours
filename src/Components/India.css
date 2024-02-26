@@ -1,0 +1,21 @@
+.India {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#IndiaDescription {
+  margin-top: 30px;
+}
+
+#IndiaDescription p {
+  margin-top: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 200%; 
+}
+
+#IndiaDescription img {
+  margin-top: 40px;
+}

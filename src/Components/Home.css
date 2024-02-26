@@ -1,0 +1,23 @@
+.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 10px;
+}
+
+.scroll-container img {
+  padding: 10px;
+}
+
+#homeDescription {
+  margin-top: 30px;
+} 
+
+#homeDescription p {
+  padding-left: 25%;
+  padding-right: 25%;
+  margin-top: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  line-height: 200%; 
+}
