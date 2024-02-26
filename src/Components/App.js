@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className="App">
-      <header>
+      <header> 
         <h1>Royal Tours</h1>
 
         <div id="subheaders">

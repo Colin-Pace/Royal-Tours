@@ -17,3 +17,25 @@
   font-size: 20px;
   line-height: 200%; 
 }
+
+/* Media Queries */
+
+@media only screen and (max-width: 1100px) {
+  .About {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  #personnelImages {
+    flex-direction: column;
+  }
+
+  #aboutDescription p {
+    font-size: 16px;
+    margin-top: 30px;
+  }
+
+  #colinImage {
+    margin-top: 20px;
+  }
+}

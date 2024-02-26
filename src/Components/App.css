@@ -18,7 +18,7 @@ header {
   margin-bottom: 50px;
 }
 
-h1 {
+header h1 {
   color: #FF671F;
   font-size: 42px;
 }
@@ -72,8 +72,55 @@ footer {
 
 footer h1 {
   color: black;
+  text-decoration: underline;
 }
 
 footer h2 {
   margin-top: 20px;
+}
+
+
+/* Media Queries */
+
+@media only screen and (max-width: 1100px) {
+  header {
+    margin-left: 5%;
+    margin-right: 0%;
+  }
+
+  header h1 {
+    font-size: 30px;
+  }
+
+  #subheaders h2 {
+    font-size: 20px;
+    margin-top: -2px;
+  }
+
+  #homeHeader, #selectedHomeHeader {
+    margin-left: 40px;
+    margin-right: 15px;
+  }
+
+  #aboutHeader, #selectedAboutHeader {
+    margin-left: 0px;
+    margin-right: 15px;
+  }
+  
+  #IndiaHeader, #selectedIndiaHeader {
+    margin-right: 15px;
+  }
+
+  footer {
+    margin-left: 5%;
+  }
+
+  footer h1 {
+    font-size: 26px;
+    text-decoration: underline;
+  }
+
+  footer h2 {
+    font-size: 20px
+  }
 }

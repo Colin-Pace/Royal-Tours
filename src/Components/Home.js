@@ -42,7 +42,7 @@ function Home() {
           "400"/>
           <img src={require("../Photos/ornament.jpg")} alt="parliament" width="600" height=
           "400"/>
-        </div>
+        </div> 
 
         <div id = "homeDescription">
           <p>Welcome to the website of Royal Tours! Scroll through the above images to see more pictures of Incredible India!</p>

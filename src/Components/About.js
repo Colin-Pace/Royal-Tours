@@ -5,7 +5,7 @@ function About() {
    return (
     <div className="About">
       <div id="personnelImages">
-        <div id="colinImage">
+        <div id="abdulRahimImage">
           <img 
             src={require("../Photos/AbdulRahimRathore.jpeg")} 
             alt="ColinPicture" 
@@ -14,13 +14,13 @@ function About() {
           <p>Abdul Rahim Rathore</p>
         </div>
 
-        <div id="abdulRahimImage">
+        <div id="colinImage">
           <img 
             src={require("../Photos/ColinPicture.png")} 
             alt="ColinPicture" 
             width="280" 
             height="350"/>
-          <p>Colin Pace</p>
+          <p>Colin Pace</p> 
         </div>
       </div>
 
