@@ -28,7 +28,7 @@ function India() {
 
           <p>The communities of the early settlers eventually, over the next few hundred years, formed great empires, in the Maurya Empire and the Gupta Empire. Ashoka of the Mauryan Empire, after conquering most of the subcontinent, renounced his warrior lifestyle and converted the entire kingdom to Buddhism, leaving inscriptions in stone throughout the realm that remain today at places like Sanchi.</p>
 
-          <p>During these early kingdoms, great epics like the Mahabharata and the Ramayana were compiled by bards and storytellers for kings. The epics focus on princes as they negotiate the dynamics of their kingdoms, utilizing religious precepts in their lifestyles. In one section of the Mahabharata called the Bhagavad Gita, the character of Krishna famously reveals his true identity to Arjuna and instructs him on the proper behavior for him in battle.</p>
+          <p>During these early kingdoms, great epics like the Mahabharata and the Ramayana were compiled by bards and storytellers for kings. The epics focus on princes as they negotiate the dynamics of their kingdoms, utilizing religious precepts in their lifestyles. In one section of the Mahabharata called the Bhagavad Gita, the character of Krishna famously reveals his true, divine identity to Arjuna and instructs him on the proper behavior for him in battle.</p>
 
           <img 
             className="IndiaImage"
@@ -39,7 +39,7 @@ function India() {
           />
           <h3 className="pictureDescription">A Statue of Rama and the Sita</h3>
 
-          <p>About a millennium later, Islamic princes invaded the subcontinent and set up kingdoms in the north and, later, in the south. The Islamic kingdoms lasted in India until the mid 19th century. Famous monuments from their time remain in the Lodi Gardens in Delhi and the Taj Mahal in Agra. The Mughal emperor Shah Jahan even created an administrative capital in Delhi, what he called Shahjahanabad. In addition to architectural marvels, the Islamic princes develop in India a cultural tradition that both Indian and Pakistani Muslims claim as their heritage – in religion, culture, and language.</p>
+          <p>About a millennium later, Islamic princes invaded the subcontinent and set up kingdoms in the north and, later, in the south. The Islamic kingdoms lasted in India until the mid 19th century. Famous monuments from their time remain in the Lodi Gardens in Delhi and the Taj Mahal in Agra. The Mughal emperor Shah Jahan even created an administrative capital in Delhi, what he called Shahjahanabad. In addition to architectural marvels, the Islamic princes developed in India a cultural tradition that both Indian and Pakistani Muslims claim as their heritage – in religion, culture, and language.</p>
 
           <p>During the 19th century, the British colonizers took control of the kingdoms of the subcontinent and united them politically for the first time under the British Raj. Almost a century of colonialism led to the development among Indians of the independence movement. Led by historical luminaries such as Mahatma Gandhi and Jawaharlal Nehru, the independence movement is marked by several important sub-movements like the Civil Disobedience Movement (1930 – 1934) and the Quit India Movement (1942).</p>
  

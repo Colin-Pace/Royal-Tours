@@ -59,7 +59,7 @@ function App() {
         <h1>Contact Information</h1>
         <h2>Representative: Colin Pace</h2>
         <h2>Email: colinpace1987@gmail.com</h2>
-        <h2>Telephone: 512-401-7615</h2>
+        <h2>Telephone: 1-512-401-7615</h2>
       </footer>
     </div>
   );
