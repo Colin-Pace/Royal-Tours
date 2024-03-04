@@ -37,7 +37,7 @@ function India() {
             width="850" 
             height="400"
           />
-          <h3 className="pictureDescription">A Statue of Rama and the Sita</h3>
+          <h3 className="pictureDescription">A Statue of Krishna and Radha</h3>
 
           <p>About a millennium later, Islamic princes invaded the subcontinent and set up kingdoms in the north and, later, in the south. The Islamic kingdoms lasted in India until the mid 19th century. Famous monuments from their time remain in the Lodi Gardens in Delhi and the Taj Mahal in Agra. The Mughal emperor Shah Jahan even created an administrative capital in Delhi, what he called Shahjahanabad. In addition to architectural marvels, the Islamic princes developed in India a cultural tradition that both Indian and Pakistani Muslims claim as their heritage – in religion, culture, and language.</p>
 
